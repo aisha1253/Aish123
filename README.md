@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -87,13 +85,15 @@ const ayesha = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![GroupBuy Tool SEO](https://img.shields.io/badge/🌐%20GroupBuy%20Tool%20SEO-Live%20Project-%23A78BFA?style=for-the-badge)](https://groupbuytoolseo.com/)
-
-> A live web project showcasing my full stack development skills — built for real users, solving real problems.
+| 🌐 Project | 🔗 Link | 📝 Description |
+|-----------|--------|---------------|
+| **GroupBuy Tool SEO** | [![Live](https://img.shields.io/badge/Live-%23A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://groupbuytoolseo.com/) | SEO tools platform built for real users |
+| **CheapRDP** | [![Live](https://img.shields.io/badge/Live-%23F472B6?style=for-the-badge&logo=vercel&logoColor=white)](https://cheaprdp.net/) | RDP services web platform |
+| **Pyverse** | [![Live](https://img.shields.io/badge/Live-%2310B981?style=for-the-badge&logo=vercel&logoColor=white)](https://pyverse.io/) | Full stack live web application |
 
 </div>
 
